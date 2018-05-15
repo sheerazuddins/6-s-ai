@@ -1,0 +1,82 @@
+ARTIFICIAL INTELLIGENCE
+
+Course Objectives:
+
+The student should be made to:
+
+1. Study the fundamental concepts of AI agents and environments.
+2. Learn the methods of problem solving in AI using various search strategies.
+3. Understand the concepts of knowledge representation and inference using logic.
+4. Understand the concepts of knowledge representation and inference under uncertainty.
+5. Learn the introductory concepts of machine learning in AI.
+
+Course Outcomes:
+
+At the end of the course, the student should be able to:
+
+1. Identify, formulate, understand and solve AI problems using search techniques (K3)
+2. Elucidate the concept of Knowledge Representation and inference using logics (K2)
+3. Elucidate the concept of Knowledge Representation and inference under uncertainty (K2)
+4. Elucidate the concept of learning in AI applications (K3)
+5. Implement various search, inference and learning algorithms in AI. (K4)
+
+Credits --- 3 0 2 4
+
+UNIT I		Introduction							            8
+Introduction to AI-Intelligent Agents – Agents and environments - Good behavior – The nature of environments – 
+structure of agents – Agent Components – Agent Architecture – Weak AI – Strong AI – Ethics and Risks of Developing 
+Artificial Intelligence
+
+Unit II		PROBLEM SOLVING AND SEARCH TECHNIQUES			          10	
+Problem Solving - problem solving agents – example problems – searching for solutions – uninformed search strategies – 
+Informed search strategies – heuristic function – local search algorithms and optimization problems - Adversarial Search 
+– Games – Optimal decisions in games – Alpha-Beta Pruning - Constraint satisfaction problems (CSP) – Backtracking search 
+and Local search for CSP
+
+Unit III	KNOWLEDGE REPRESENTATION AND REASONING			          9
+Knowledge-Based Agents – Propositional Logic -First order logic – Syntax and semantics for first order logic – 
+Using first order logic – Knowledge engineering in first order logic - Inference in First order logic – 
+propositional versus first order logic – unification and lifting – forward chaining – backward chaining – Resolution
+
+Unit IV 	UNCERTAIN KNOWLEDGE AND REASONING			         9
+Acting Under Uncertainty – Basic Probability Notation – Inference Using Full Joint Distributions – Independence – 
+Bayes’ Rule & its use – Bayesian Networks – Inference in Bayesian Networks – Certainty Factors – Dempster Schafer Theory 
+– Fuzzy Reasoning
+
+
+UNIT V 	LEARNING AND ITS APPLICATIONS					         9
+Forms of learning - Supervised learning - Learning decision trees – Unsupervised Learning - K-means  - 
+Reinforcement learning – Passive reinforcement learning – Applications in AI
+
+TOTAL : 45
+Text Book
+1. Stuart Russell, Peter Norvig, “Artificial Intelligence – A Modern Approach”, 3nd Edition, 
+Pearson Education / Prentice Hall of India, 2004.
+
+ReferenceS
+1. Elaine Rich and Kevin Knight, “Artificial Intelligence”, 2nd Edition, Tata McGraw-Hill, 2003.
+2. Andreas Muller and Sarah Guido “Introduction to Machine Learning with Python: A Guide for Data Scientists” 
+Shroff/O'Reilly; First edition (2016)
+3. David Poole and Alan Mackworth “Artificial Intelligence : Foundation of Computational Agents”, 
+Cambridge University Press; Second Edition (2017)
+
+
+
+LAB EXERCISES
+
+
+1. Implementation of Uninformed Search Techniques
+2. Implementation of Informed Search Techniques
+3. Implementation of Hill Climbing algorithms
+4. Implementation of Adversarial Search techniques
+5. Implementation of backtracking search for CSP
+6. Construction of AND-OR graph from knowledge base
+7. Implementation of inference from knowldge base
+8. Implementation of inference using full joint probability distribution
+9. Implementation of inference using Bayesian network
+10. Implementation of Decision tree learning algorithm
+11. Implementation of K-means algorithms
+12. Implementation of passive reinforcment learning algorithm
+
+
+	Total Hours : 20
